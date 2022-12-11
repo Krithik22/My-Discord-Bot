@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "This is a discord bot for practicing nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krithik22/My-Discord-Bot.git"
+  },
+  "author": "Krithik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krithik22/My-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Krithik22/My-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
